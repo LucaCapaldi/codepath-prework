@@ -45,17 +45,17 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+CSCI 1300 Introduction to Programming - CU Boulder
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+The largest challenge I faced was working with 3 languages I have not yet encountered. I have only been trained in C++ so far, so getting familiar with JavaScript, CSS, and HTML was very fascinating and daunting at the same time. Though the general walkthrough of the project was very helpful, when it got time to be creative about solutions, I started to struggle to apply the concepts in my head to the code itself. One of the most specific examples of this was figuring out how to randomize the pattern for the game. When I was first given only the function Math.random(), I began by trying to solve the problem too complexly. I tried to use the modulo function to find the remainder after dividing by the number of options I wanted to generate (in this case, 4). However, with a lack of knowledge about the programming language itself, I couldn’t apply this concept I had learned in C++. I had to think on my feet and go back to basics, so I came up with a simple 4 option if statement that checked the probability produced by Math.random(). It felt incredibly rewarding to solve this problem on my own, and to have to do it under such time constraints made it even more satisfying.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+One of the most important questions I thought of was how to create the advanced designs of websites. We barely broke the surface of what is possible with CSS I believe, and I would be incredibly grateful to learn about the advanced techniques in that language. 
+Another interesting question I had is how do developers balance the different aspects of web development? With a responsibility to functionality, design, and user experience, I think it could be quite difficult to balance. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+I would focus on making the user experience for this game the best it could be. I would change the sounds/frequencies so that they are more comfortable for a longer period of time. If this game is to be focused on an audio and visual experience, that has to be the priority. On the note of visuals, I would spend the rest of the time focusing on the design of the website. Aspects as simple as font and centering of the game could make it much more pleasing to look at. Finally, adding harder levels or a longer sequence could make the playability of the game much better. 
 
 
 ## Interview Recording URL Link
