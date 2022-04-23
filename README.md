@@ -60,7 +60,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]https://cuboulder.zoom.us/rec/share/1nv6R4H-WbyfieW2pzQRhndsrvCVkLJq8NgRRP97nKbo4ewe47d2WQNwTv63ilM.tRywGQY9z1hWtL-1?startTime=1650690853000
+Passcode: bUJL7M#0
 
 
 ## License
